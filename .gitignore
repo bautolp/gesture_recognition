@@ -1,0 +1,16 @@
+*.suo 
+*.pdb
+*.exe
+*.ilk
+*.log
+*.pch
+*.obj
+*.tlog
+*.ipch
+
+*.idb
+ELEC499/GestureRecognition/GestureRecognition/ycrcb_img.png
+ELEC499/GestureRecognition/GestureRecognition/ycrcb_img_multiplied.png
+*.dll
+*.db
+*.opendb

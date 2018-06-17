@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Skin Detection
-subtitle: Using face detection to profile and detect skin
+title: Convexity Analysis
+subtitle: Using convexity analysis in conjunction with classifiers to differentiate gestures
 bigimg: /img/path.jpg
-tags: [books, test]
 ---
 
-Skin detection
+Convexity analysis

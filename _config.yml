@@ -186,7 +186,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  rooturl: 'gesture_recognition/_posts'
   media: 'img'
   ignore:
     - 404.html

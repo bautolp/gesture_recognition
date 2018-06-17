@@ -5,7 +5,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://bautolp.github.io/gesture_recognition/"
+url: "https://bautolp.github.io/gesture_recognition"
 baseurl: "/gesture_recognition"
 
 # If you are building a GitHub project page then use these settings:
@@ -24,13 +24,12 @@ description: ECE 499 Project
 
 # List of links in the navigation bar
 navbar-links:
-  Thanks: "https://bautolp.github.io/gesture_recognition/"
-  Usage: "https://bautolp.github.io/gesture_recognition/"
+  Thanks: "https://bautolp.github.io/gesture_recognition"
+  Usage: "https://bautolp.github.io/gesture_recognition"
   Project Details:
-    - Overview: "https://bautolp.github.io/gesture_recognition/"
-    - Skin Detection: "https://bautolp.github.io/gesture_recognition/"
-    - Convexity Analysis: "https://bautolp.github.io/gesture_recognition/"
-    - 
+    - Overview: "https://bautolp.github.io/gesture_recognition"
+    - Skin Detection: "https://bautolp.github.io/gesture_recognition"
+    - Convexity Analysis: "https://bautolp.github.io/gesture_recognition"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -101,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://bautolp.github.io/gesture_recognition/"  
+url-pretty: "https://bautolp.github.io/gesture_recognition"  
 
 # --- Web Statistics Section --- #
 
@@ -186,7 +185,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: 'gesture_recognition/_posts'
+  rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html

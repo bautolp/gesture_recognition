@@ -11,7 +11,7 @@ tags: [books, test]
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Here's a useful table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |

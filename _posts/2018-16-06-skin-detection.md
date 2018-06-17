@@ -6,4 +6,4 @@ bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
-This is my first post, how exciting!
+Skin detection

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convexity Analysis
-subtitle: Using convexity analysis in conjunction with classifiers to differentiate gestures
+subtitle: Using convexity analysis and classifiers to determine gestures
 bigimg: /img/path.jpg
 ---
 

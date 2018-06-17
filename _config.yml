@@ -97,11 +97,11 @@ share-links-active:
 #  twitter: true
 #  facebook: true
 #  google: false
-  linkedin: true
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://bautolp.github.io"  
+url-pretty: "https://bautolp.github.io/gesture_recognition/"  
 
 # --- Web Statistics Section --- #
 
@@ -162,7 +162,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files

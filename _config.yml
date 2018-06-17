@@ -24,7 +24,7 @@ description: ECE 499 Project
 
 # List of links in the navigation bar
 navbar-links:
-  Thank: "thanks"
+  Thanks: "thanks"
   Use: "usage"
   Project Details:
     - Overview: "https://bautolp.github.io/gesture_recognition"

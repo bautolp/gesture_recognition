@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thanks and Acknowledgments
+bigimg: /img/thank-you.jpg
 ---
 
 

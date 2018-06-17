@@ -25,11 +25,12 @@ description: ECE 499 Project
 # List of links in the navigation bar
 navbar-links:
   Thanks: "thanks"
-  Use: "usage"
   Project Details:
     - Overview: "https://bautolp.github.io/gesture_recognition"
+    - Usage: "https://bautolp.github.io/gesture_recognition"
     - Skin Detection: "https://bautolp.github.io/gesture_recognition"
     - Convexity Analysis: "https://bautolp.github.io/gesture_recognition"
+    - Tracking: "https://bautolp.github.io/gesture_recognition"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

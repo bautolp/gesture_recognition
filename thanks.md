@@ -1,6 +1,12 @@
 ---
 layout: page
-title: Thanks
+title: Thanks and Acknowledgments
 ---
 
-This project was done with collaboration with ...
+
+## Supervisors
+This project was done in collaboration with **Dr. Alexandra Albu (University of Victoria)** and **Neerav Patel (Lucid Vision Labs)**
+
+## References
+A series of links to articles and papers
+

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: &nbsp 
+title: <nbsp/>
 bigimg: /img/thank-you.jpg
 ---
-
 
 ## Supervisors
 This project was done in collaboration with **Dr. Alexandra Albu (University of Victoria)** and **Neerav Patel (Lucid Vision Labs)**

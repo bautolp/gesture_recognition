@@ -2,7 +2,7 @@
 layout: post
 title: Skin Detection
 subtitle: Using face detection to profile and detect skin
-bigimg: /img/path.jpg
+#bigimg: /img/path.jpg
 ---
 
 ## Face Detection Using Classifier

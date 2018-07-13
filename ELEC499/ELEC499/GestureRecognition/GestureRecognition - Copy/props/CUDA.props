@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+   <ImportGroup Label="PropertySheets" />
+   <PropertyGroup Label="UserMacros">
+   </PropertyGroup>
+   <ItemDefinitionGroup>
+      <ClCompile>
+         <AdditionalIncludeDirectories>$(OPEN_CV_INSTALL_DIRECTORY)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      </ClCompile>
+   </ItemDefinitionGroup>
+   <ItemDefinitionGroup Condition="'$(Configuration)|$(PlatformTarget)'=='Debug|x86'">
+      <Link>
+	  <!-- Not going to bother supporting this-->
+      </Link>
+   </ItemDefinitionGroup>
+   <ItemDefinitionGroup Condition="'$(Configuration)|$(PlatformTarget)'=='Debug|x64'">
+      <Link>
+         <AdditionalDependencies>opencv_world320d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+         <AdditionalLibraryDirectories>$(OPEN_CV_INSTALL_DIRECTORY)\x64\vc14\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      </Link>
+   </ItemDefinitionGroup>
+   <ItemDefinitionGroup Condition="'$(Configuration)|$(PlatformTarget)'=='Release|x86'">
+      <Link>
+	  <!-- Not going to bother supporting this-->
+      </Link>
+   </ItemDefinitionGroup>
+   <ItemDefinitionGroup Condition="'$(Configuration)|$(PlatformTarget)'=='Release|x64'">
+      <Link>
+         <AdditionalDependencies>opencv_world320.lib;%(AdditionalDependencies)</AdditionalDependencies>
+         <AdditionalLibraryDirectories>$(OPEN_CV_INSTALL_DIRECTORY)\x64\vc14\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      </Link>
+   </ItemDefinitionGroup>
+</Project>

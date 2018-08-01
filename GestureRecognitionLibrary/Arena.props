@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(LUCID_DEV_ROOT)\include\Arena;$(LUCID_DEV_ROOT)\include\GenTL;$(LUCID_DEV_ROOT)\include\Save;$(LUCID_GENICAM_PATH)\library\CPP\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(LUCID_DEV_ROOT)\lib\Arena;$(LUCID_GENICAM_PATH)\library\CPP\lib\Win32_i86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Arenad_v120.lib;Saved_v120.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(LUCID_DEV_ROOT)\include\Arena;$(LUCID_DEV_ROOT)\include\GenTL;$(LUCID_DEV_ROOT)\include\Save;$(LUCID_GENICAM_PATH)\library\CPP\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(LUCID_DEV_ROOT)\lib\Arena;$(LUCID_GENICAM_PATH)\library\CPP\lib\Win32_i86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Arena_v120.lib;Save_v120.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>  
+  
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(LUCID_DEV_ROOT)\include\Arena;$(LUCID_DEV_ROOT)\include\GenTL;$(LUCID_DEV_ROOT)\include\Save;$(LUCID_GENICAM_PATH)\library\CPP\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(LUCID_DEV_ROOT)\lib64\Arena;$(LUCID_GENICAM_PATH)\library\CPP\lib\Win64_x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Arenad_v120.lib;Saved_v120.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(LUCID_DEV_ROOT)\include\Arena;$(LUCID_DEV_ROOT)\include\GenTL;$(LUCID_DEV_ROOT)\include\Save;$(LUCID_GENICAM_PATH)\library\CPP\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(LUCID_DEV_ROOT)\lib64\Arena;$(LUCID_GENICAM_PATH)\library\CPP\lib\Win64_x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Arena_v120.lib;Save_v120.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>  
+  
+  <ItemGroup />
+</Project>

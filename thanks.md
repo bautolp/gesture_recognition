@@ -5,7 +5,6 @@ subtitle: References
 bigimg: /img/thank-you.jpg
 ---
 
-## 
 ## Supervisors
 This project was done in collaboration with:
 - **Dr. Alexandra Albu (University of Victoria)**

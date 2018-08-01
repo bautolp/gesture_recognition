@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank you
+title:
 subtitle: <br/>
 bigimg: /img/thank-you.jpg
 ---

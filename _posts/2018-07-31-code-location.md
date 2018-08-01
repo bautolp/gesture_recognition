@@ -1,15 +1,26 @@
 ---
 layout: post
-title: Tracking
-subtitle: Tracking the location and gesture of hands in an image stream
+title: Code and How to Contribute
+subtitle: Code is available for free on github
 #bigimg: /img/path.jpg
 ---
 
-## Algorithm Overview
-Blurb and pictures related to the algorithm
+## Code Location
+- Code can be checked out here: https://github.com/bautolp/gesture_recognition/tree/master/GestureRecognitionLibrary 
+- Please see Usage for instructions on compiling
+- Feel free to email me at bautolp@gmail.com with any problems you encounter
 
-## Differentiating People
-Explanation of how using skin profiles allows people to be differentiated
+## Contributing
+- If you would like to contribute, send an email to bautolp@gmail.com
+    - You can have a branch which you can check in on and create a pull request from
+- This is free software so there is no paid compensation for contributions
 
-## Limitations
-If someone crosses hand from left side to right side it will think their left hand disappeared and right hand reappeared
+## Other Inquires
+- If you have general questions about this software and the development of it, please email me directly at bautolp@gmail.com
+
+## Disclaimer
+Please note: There is no guarantee that this software is:
+1. Suitable for a specific application
+2. In a working state
+3. Is safe to run in safety-critical applications
+If this software crashes on your machine, that is your problem (see code for actual disclaimer)

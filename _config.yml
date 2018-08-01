@@ -102,7 +102,7 @@ url-pretty: "https://bautolp.github.io/gesture_recognition"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 25
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -114,8 +114,8 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: //
+paginate: 10
 
 kramdown:
   input: GFM

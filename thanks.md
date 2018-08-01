@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: <br/>
+title: Acknowledgements
+subtitle: References
 bigimg: /img/thank-you.jpg
 ---
 

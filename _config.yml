@@ -10,15 +10,14 @@ description: ECE 499 Project
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Acknowledgments: "thanks"
-  The Code!: "code"
   Project Details:
     - Overview: "https://bautolp.github.io/gesture_recognition/2018-08-05-overview/"
     - Usage: "https://bautolp.github.io/gesture_recognition/2018-08-04-usage/"
     - Skin Detection: "https://bautolp.github.io/gesture_recognition/2018-08-03-skin-detection/"
     - Gesture Recognition: "https://bautolp.github.io/gesture_recognition/2018-08-02-gesture-recognition/"
     - Tracking: "https://bautolp.github.io/gesture_recognition/2018-08-01-tracking/"
-
+  The Code!: "code"
+  Acknowledgments: "thanks"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/binary-hand.jpg"
@@ -61,7 +60,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  github: bautolp
+  github: bautolpsocial-network-links:
+  rss: true
+  email: "bautolp@gmail.com"
+  linkedin: lyndon-bauto-752424b1
 
 # Select which share links to show in posts
 share-links-active:

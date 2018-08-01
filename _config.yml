@@ -16,7 +16,7 @@ navbar-links:
     - Overview: "https://bautolp.github.io/gesture_recognition/2018-08-05-overview/"
     - Usage: "https://bautolp.github.io/gesture_recognition/2018-08-04-usage/"
     - Skin Detection: "https://bautolp.github.io/gesture_recognition/2018-08-03-skin-detection/"
-    - Convexity Analysis: "https://bautolp.github.io/gesture_recognition/2018-08-02-convexity-analysis/"
+    - Convexity Analysis: "https://bautolp.github.io/gesture_recognition/2018-08-02-gesture-recognition/"
     - Tracking: "https://bautolp.github.io/gesture_recognition/2018-08-01-tracking/"
 
 # Image to show in the navigation bar - image must be a square (width = height)

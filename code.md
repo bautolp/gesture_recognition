@@ -19,7 +19,7 @@ subtitle: Code is available for free on github
 - If you have general questions about this software and the development of it, please email me directly at bautolp@gmail.com
 
 ## Disclaimer
-Please note: There is no guarantee that this software is:
+Please note, there is no guarantee that this software is: 
 1. Suitable for a specific application
 2. In a working state
 3. Is safe to run in safety-critical applications

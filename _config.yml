@@ -5,8 +5,8 @@ url: "https://bautolp.github.io/gesture_recognition/"
 baseurl: "/gesture_recognition"
 title: Real-Time <br/> Gesture Recognition
 description: ECE 499 Project
-
-
+use-site-title: false
+site-title: Real-Time Gesture Recognition
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:

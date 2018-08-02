@@ -11,10 +11,10 @@ This project was done in collaboration with:
 - **Neerav Patel (Lucid Vision Labs)**
 
 ## Thanks to
-- **Dr. Alexandra Albu** for taking the time to help me during this project, providing insight, and being flexible in letting me do it remotely
-- **Neerav Patel** for providing feedback, discussion and being flexible with working hours so I could get this project done on time
+- **Dr. Alexandra Albu** for taking the time to help me during this project, providing insight, and being flexible to allow remote work
+- **Neerav Patel** for providing feedback, discussion and support throughout the project
 - **Ilamparithi Thirumarai Chelvan** for hosting the course and allowing me to work in a different city while taking it
-- **Lucid Vision Labs** for providing me with a camera, lens, and other equipment I needed, and also full-time employment while I was taking this course
+- **Lucid Vision Labs** for providing me with a camera, lens, and other equipment I needed
 - **Family and Friends** for supporting me throughout the years as I made my way to this point  
 - **The OpenCV Community** for all the image processing functions they have made available
 

@@ -53,3 +53,10 @@ The following handlers for defects exist:
 - If hand is at an angle with the camera, the reliability drops (contours start to mesh together)
 - Hand cannot intersect face
 - Hand must be near head level
+
+## Future Work
+- Work on the detection parameters to make sure they are properly tuned
+    - Many parameters were guessed at, worked, and never revised
+        - Could be some bugs hiding deep in the logic
+- Adding angle related checks on the defects could provide more reliability
+- Additional constraints to classify the hand

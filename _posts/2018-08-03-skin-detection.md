@@ -31,3 +31,8 @@ Note, before the initial image enters the skin detection a bilateral filter is a
 ## Limitations
 - Bright spectral lighting may cause failures
 - If hands intersect face, they will mesh with face contour
+
+## Future Work
+- Discrimination of different people based on their skin colour is poorly done
+    - People with very similar skin tones are detected as the same person
+    - This could potentially be corrected by tightening up tolerances and the bin count of the histogram

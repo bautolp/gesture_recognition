@@ -19,6 +19,7 @@ The following points on the contour are determined (note relative measurements a
 3. Rightmost within a finger tips vertical distance of the highest
 4. Leftmost above the wrist
 5. Rightmost above the wrist
+
 The contour is then reexamined using this information to attempt to locate the thumb. This is done by checkign the leftmost and rightmost points above the wrist. If they are at least half a thumbs length farther out than the leftmost and rightmost points within a finger tips vertical distance of the highest, they are marked as a potential thumb.
 Potential thumbs are reexamined, checking the nearby points, checking how the contour varies vertically and horizontally. If the contour travels far horizontally before having a vertical wall, it is marked as a thumb. 
 

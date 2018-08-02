@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgments
 subtitle: References
-bigimg: /img/thank-you.jpg
+image: /img/thank-you.jpg
 ---
 
 ## Supervisors
@@ -11,12 +11,12 @@ This project was done in collaboration with:
 - **Neerav Patel (Lucid Vision Labs)**
 
 ## Thanks to
-1. **Dr. Alexandra Albu** for taking the time to help me during this project, providing insight, and being flexible in letting me do it remotely
-2. **Neerav Patel** for providing feedback, discussion and being flexible with working hours so I could get this project done on time
-3. **Ilamparithi Thirumarai Chelvan** for hosting the course and allowing me to work in a different city while taking it
-4. **Lucid Vision Labs** for providing me with a camera, lens, and other equipment I needed, and also full-time employment while I was taking this course
-5. **Family and Friends** for supporting me throughout the years as I made my way to this point  
-6. **The OpenCV Community** for all the image processing functions they have made available
+- **Dr. Alexandra Albu** for taking the time to help me during this project, providing insight, and being flexible in letting me do it remotely
+- **Neerav Patel** for providing feedback, discussion and being flexible with working hours so I could get this project done on time
+- **Ilamparithi Thirumarai Chelvan** for hosting the course and allowing me to work in a different city while taking it
+- **Lucid Vision Labs** for providing me with a camera, lens, and other equipment I needed, and also full-time employment while I was taking this course
+- **Family and Friends** for supporting me throughout the years as I made my way to this point  
+- **The OpenCV Community** for all the image processing functions they have made available
 
 ## References
 In IEEE format, these are some papers I read as I was working on this project:

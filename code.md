@@ -6,7 +6,7 @@ subtitle: Code is available for free on github
 ---
 
 ## Code Location
-- [Code can be checked out here](https://github.com/bautolp/gesture_recognition/tree/master/GestureRecognitionLibrary "Gesture Recognition Librarys's Homepage")  
+- [Code can be checked out here](https://github.com/bautolp/gesture_recognition/tree/master/GestureRecognitionLibrary "Gesture Recognition Libraries Homepage")  
 - Please see [Usage](https://bautolp.github.io/gesture_recognition/2018-08-04-usage/ "Gesture Recognition Usage Info") for instructions on compiling
 - Feel free to email me at bautolp@gmail.com with any problems you encounter
 

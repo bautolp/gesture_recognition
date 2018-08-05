@@ -20,8 +20,8 @@ The following points on the contour are determined (note relative measurements a
 4. Leftmost above the wrist
 5. Rightmost above the wrist
 
-The contour is then reexamined using this information to attempt to locate the thumb. This is done by checkign the leftmost and rightmost points above the wrist. If they are at least half a thumbs length farther out than the leftmost and rightmost points within a finger tips vertical distance of the highest, they are marked as a potential thumb.
-Potential thumbs are reexamined, checking the nearby points, checking how the contour varies vertically and horizontally. If the contour travels far horizontally before having a vertical wall, it is marked as a thumb. 
+The contour is then re-examined using this information to attempt to locate the thumb. This is done by checking the leftmost and rightmost points above the wrist. If they are at least half a thumbs length farther out than the leftmost and rightmost points within a finger tips vertical distance of the highest, they are marked as a potential thumb.
+Potential thumbs are re-examined, checking the nearby points, checking how the contour varies vertically and horizontally. If the contour travels far horizontally before having a vertical wall, it is marked as a thumb. 
 
 ## Defect Filtering
 The defects which fall into the following categories are discarded:
@@ -35,10 +35,10 @@ After the presence of the thumb is determined, the defects of the contour are an
 The following handlers for defects exist:
 1. Thumb
 - If the defect set is the thumb, it is skipped
-2. Two finger
+2. Two fingers
 - If the start and end points of a defect set are within a fingertips vertical distance of each other, they are labelled as two finger tips
 3. Pinky finger
-- If the two finger handler does not catch the defect set as two fingers, the pinky finger handler is executed
+- If the two fingers handler does not catch the defect set as two fingers, the pinky finger handler is executed
 - The leftmost and rightmost point in the defect set are compared to the leftmost and rightmost point above the wrist
     - If either of them are the same point, then the defect is labelled as a pinky
 - If the pinky is found as one of the points, the other points vertical position is checked

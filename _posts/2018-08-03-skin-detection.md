@@ -26,7 +26,7 @@ Note, before the initial image enters the skin detection a bilateral filter is a
 
 ## Converting Back Projection to a Binary Image
 - The back projection is compared to a threshold and a binary skin mask is generated
-- Erosing/dilation are often applied in this step, but do not seem to be necessary with this type of skin detection
+- Eroding/dilation are often applied in this step, but do not seem to be necessary with this type of skin detection
 
 ## Limitations
 - Bright spectral lighting may cause failures
